@@ -20,7 +20,7 @@ In this repository, you'll find solutions to DSA questions from various platform
 
 Here's a list of some of the DSA questions we've solved:
 
-- [Problem 1: Coca Cola](Coca-Cola/README.md)
+- [Problem 1: Coca Cola](https://github.com/samonfire-adm/CodeChallangesByRochak/tree/main/Coca%20Cola)
 - [Problem 2: Reverse a Linked List](problems/reverse-linked-list.md)
 - [Problem 3: Longest Substring Without Repeating Characters](problems/longest-substring-without-repeating-characters.md)
 - [Problem 4: Maximum Subarray](problems/maximum-subarray.md)
