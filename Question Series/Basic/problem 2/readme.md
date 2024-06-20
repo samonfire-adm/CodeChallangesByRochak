@@ -5,7 +5,7 @@ Basically this problem require you to evaluate the radius and calculate area of 
 <!-- Basic/Solution1.md -->
  - Solution is been Uploaded already on YT 
  - Link Is As follow: 
- - And also Code solution is been updated [here](https://github.com/samonfire-adm/CodeChallangesByRochak/blob/main/Question%20Series/Basic/problem%201/main.py) 
+ - And also Code solution is been updated [here](https://github.com/samonfire-adm/CodeChallangesByRochak/blob/main/Question%20Series/Basic/problem%202/main.py) 
 
 
 
