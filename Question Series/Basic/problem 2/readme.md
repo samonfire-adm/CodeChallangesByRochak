@@ -4,7 +4,7 @@
 Basically this problem require you to evaluate the radius and calculate area of circle using the formulae πr2 and if possible provide the answer in unit as well like 34m<sup>2 
 <!-- Basic/Solution1.md -->
  - Solution is been Uploaded already on YT 
- - Link Is As follow: 
+ - Link Is As follow: [Click Here](https://youtu.be/Wzg6ftBhBEo)
  - And also Code solution is been updated [here](https://github.com/samonfire-adm/CodeChallangesByRochak/blob/main/Question%20Series/Basic/problem%202/main.py) 
 
 
@@ -16,5 +16,5 @@ Basically this problem require you to evaluate the radius and calculate area of 
 like there is an rectangle where length is 32m and breadth is 16m so using the formulae LxB we get 32m X 16m =512m<sup>2
 <!-- Basic/Solution1.md -->
  - Solution is been Uploaded already on YT 
- - Link Is As follow: 
+ - Link Is As follow: [HomeWork Video](https://youtu.be/Zv14ZcKelH8)
  - And also Code solution is been updated [here](https://github.com/samonfire-adm/CodeChallangesByRochak/blob/main/Question%20Series/Basic/problem%202/home.py) 
