@@ -12,7 +12,7 @@ The program should generate a table with two columns: "Numbers" and "Square". Ea
 <!-- Basic/Solution1.md -->
  - Solution is been Uploaded already on YT 
  - Link Is As follow: 
- - And also Code solution is been updated [here.](https://github.com/samonfire-adm/CodeChallangesByRochak/blob/main/Question%20Series/Basic/problem%201/main.py) 
+ - And also Code solution is been updated [here](https://github.com/samonfire-adm/CodeChallangesByRochak/blob/main/Question%20Series/Basic/problem%201/main.py) 
 
 The function generate_table(n) takes an integer n as an argument, which specifies the range of numbers to display.
 It prints the headers "Numbers" and "Square" with a fixed width using formatted strings.
@@ -25,5 +25,3 @@ It then iterates through the range from 1 to n, printing each number and its squ
 | 1      	| 1      	| 1    	|
 | 2      	| 4      	| 8    	|
 | 3      	| 9      	| 27   	|
-
-Check out my social media handles for more updates, tips, and discussions!
